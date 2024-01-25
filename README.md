@@ -11,8 +11,8 @@ The dataset used for this project is the [Mall Customer Segmentation Data](https
 
 ## Files
 
-- `customer_segmentation.ipynb`: Jupyter Notebook containing the code for data exploration, preprocessing, clustering, and visualization.
-- `Mall_Customers.csv`: Original dataset used for customer segmentation.
+- `PRODIGY_ML_02.ipynb`: Jupyter Notebook containing the code for data exploration, preprocessing, clustering, and visualization.
+- `Customers.csv`: Original dataset used for customer segmentation.
 - `Mall_Customers_Clustered.csv`: CSV file containing the clustered dataset with optimal clusters.
 
 
